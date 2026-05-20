@@ -5,6 +5,7 @@ A WPF application for managing and renaming submission files.
 
 本アプリは、レポート提出時の命名規則の確認や手動入力の手間を減らすことを目的としています。
 また、ファイル管理が苦手な方でも簡単に整理できるよう設計しています。
+
 How to Use
 1. 起動
 
