@@ -56,6 +56,9 @@ Downloads/提出フォルダ
 
 値を変更したい場合は、該当変数名と変更値を指定して更新できる。
 
+<img width="1168" height="910" alt="スクリーンショット 2026-05-20 183734" src="https://github.com/user-attachments/assets/c86043c0-721e-4552-b112-c27938007e0d" />
+
+
 
 
 
