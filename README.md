@@ -3,6 +3,9 @@ A WPF application for managing and renaming submission files.
 
 大学の命名規則に従い、選択したファイルの名前を自動で変更するC#で作成したWPFアプリです.
 
+評価の方もよろしくお願いします
+https://docs.google.com/forms/d/1oCs-A0YZwXxNcUE6sYVhyZ0t9u08Vh4M3LkADLlFxHo/viewform
+
 本アプリは、レポート提出時の命名規則の確認や手動入力の手間を減らすことを目的としています。
 また、ファイル管理が苦手な方でも簡単に整理できるよう設計しています。
 
